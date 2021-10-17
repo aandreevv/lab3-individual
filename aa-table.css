@@ -2,11 +2,11 @@
     width: 100%;
 }
 
-.header td {
-    border: 1px solid;
+.header, .center, .left, .right, .footer {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
 }
-
-
 
 .left, .right {
     width: 20%;
