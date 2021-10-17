@@ -1,0 +1,28 @@
+.design {
+    width: 100%;
+}
+
+.header td {
+    border: 1px solid;
+}
+
+
+
+.left, .right {
+    width: 20%;
+    background: orange;
+}
+
+.center {
+    width: 60%;
+}
+
+.left, .right, .center {
+    height: 450px;
+}
+
+
+.header, .footer {
+    background-color: dodgerblue;
+    height: 150px;
+}
